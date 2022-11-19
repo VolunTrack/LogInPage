@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-voluntrack-staging-213400-authRole",
+      "UnauthRoleArn": "arn:aws:iam::025775982994:role/amplify-voluntrack-staging-213400-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::025775982994:role/amplify-voluntrack-staging-213400-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-voluntrack-staging-213400-deployment",
+      "UnauthRoleName": "amplify-voluntrack-staging-213400-unauthRole",
+      "StackName": "amplify-voluntrack-staging-213400",
+      "StackId": "arn:aws:cloudformation:us-east-2:025775982994:stack/amplify-voluntrack-staging-213400/750a2f00-2d62-11ed-bd9d-06e081be8bca",
+      "AmplifyAppId": "d2ho7hk50wvo5s"
+    },
+    "categories": {
+      "auth": {
+        "Voluntrack": {}
+      }
+    }
+  }
+}
